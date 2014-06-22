@@ -1,6 +1,6 @@
 # Shiny app simulating retirement cash-flow scenarios
 
-For a direct access to this Shiny application, click [here](http://lincrampton.shinyapps.io/time2retire/.)
+For a direct access to this Shiny application, click [here](http://lincrampton.shinyapps.io/time2retire/)
 
 This README file is the supporting documentation accompagning this Shiny application. It includes three parts: 
 
@@ -59,7 +59,7 @@ This Shiny application displays a series of line graphs illustrating various fin
 
 ### 3. Directives on how to visualize this Shiny application
 
-Option 1: Direct link: click [here](https://coursera-student.shinyapps.io/coursera-shiny/). 
+Option 1: Direct link: click [here](http://lincrampton.shinyapps.io/time2retire/)
 
 Option 2: Download the `server.R` and `ui.R` files and place them in a directory named 'time2retire'. Open an R session and set the working directory to the folder that contains the directory 'time2retire'. Then run the following commands:
 
